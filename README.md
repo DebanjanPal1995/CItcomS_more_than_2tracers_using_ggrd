@@ -4,4 +4,4 @@ Thorsten W. Becker CitcomS ggrd version can handle 2 tracers at a time, this new
 If you are willing to dwoanload this version, please email me (debanjanpal@iisc.ac.in).
 
 While Installing this version it is recomended to create your own configure file using the command autoreconf -ifv
-Also please exceute this command before installing "make clean" once.
+Also please exceute this command "make clean" before installing once.
